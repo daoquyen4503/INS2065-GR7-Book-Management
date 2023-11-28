@@ -2,10 +2,10 @@
 
 ## GROUP <add-group-name>
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: Đào Thị Quyên
+- Member 2: Nguyễn Văn Hiếu
+- Member 3: Đặng Anh Quốc
+- Member 4: Đinh Tiến Mười
 
 ## Starting server
 
